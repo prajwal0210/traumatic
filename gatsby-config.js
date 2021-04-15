@@ -4,7 +4,7 @@ module.exports = {
     author: {
       name: `Prajwal Gowda`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    description: `A blog demonstrating what AI and ML can do.`,
     social: {
       linkedin: `prajwalGowda`,
     },
