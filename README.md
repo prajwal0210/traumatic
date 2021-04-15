@@ -1,0 +1,1 @@
+hey! This blog is about machine learning and i'll try my best to explain all the topic in laymans term

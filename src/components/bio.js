@@ -35,8 +35,9 @@ const Bio = () => {
         <p>
           Written by <strong>{author.name}</strong> {author?.summary || null}
           {` `}
-          <a href={`www.linkedin.com/in/prajwal-gowda-2101997${social?.linkedin || ``}`}>
-            You should follow me on Linkedin
+          You should follow me on &nbsp;&nbsp; 
+          <a href='https://www.linkedin.com/in/prajwal-gowda-2101997/'>
+          Linkedin
           </a>
         </p>
       )}
