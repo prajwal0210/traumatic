@@ -23,13 +23,15 @@ Suppose you decided to watch a movie on any of the ott platforms say Netflix and
 <p> This is a common use case of Machine Learning called “Recommendation Engine”.Netflix uses the personalized method where movies are suggested to the users who are most likely to enjoy them based on a metric like major actors or genre.<p>
 
 * Machine learning implementations are classified into three major categories:-
-  * ##### Supervised learning
+   ##### 1. Supervised learning
   <p>It is learning in which we teach or train the machine using data that is well labeled which means some data is already tagged with correct answers.
   </p>
-  * ##### Unsupervised learning
+
+   ##### 2. Unsupervised learning
   <p>It uses machine learning algorithms to analyze and cluster unlabeled datasets. These algorithms discover hidden patterns or data groupings without the need for human intervention
   </p>
-  * ##### Reinforcement learning
+
+   ##### 3. Reinforcement learning
   <p>An RL agent learns from the consequences of its actions, rather than from being explicitly taught and it selects its actions on basis of its past experiences (exploitation) and also by new choices (exploration), which is essentially trial and error learning.
 </p>
 
