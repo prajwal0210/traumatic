@@ -4,7 +4,7 @@ date: "2021-04-18T22:12:03.284Z"
 description: "Machine learning is the science of getting computers to learn......"
 ---
 
-> Machine learning is the science of getting computers to learn without being explicitly performed  - `Arthur Samuel.`
+> Machine learning is the science of getting computers to learn without being explicitly programmed  - `Arthur Samuel.`
 
 ![Machine-Learning](./ML.jpg)
 
