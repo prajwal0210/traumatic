@@ -22,7 +22,7 @@ Suppose you decided to watch a movie on any of the ott platforms say Netflix and
 
 <p> This is a common use case of Machine Learning called “Recommendation Engine”.Netflix uses the personalized method where movies are suggested to the users who are most likely to enjoy them based on a metric like major actors or genre.<p>
 
-* Machine learning implementations are classified into three major categories:-
+* There are three main types of learning problems in machine learning:-
    ##### 1. Supervised learning
   <p>It is learning in which we teach or train the machine using data that is well labeled which means some data is already tagged with correct answers.
   </p>
