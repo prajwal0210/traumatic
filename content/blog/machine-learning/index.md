@@ -35,5 +35,7 @@ Suppose you decided to watch a movie on any of the ott platforms say Netflix and
   <p>An RL agent learns from the consequences of its actions, rather than from being explicitly taught and it selects its actions on basis of its past experiences (exploitation) and also by new choices (exploration), which is essentially trial and error learning.
 </p>
 
-<p>We will further discuss all the above topics in great detail in my upcoming blogs. The topic for my next blog will be <strong style="color:#ce6a85">“AI vs Machine Learning vs Deep Learning” </strong>
+<p>We will further discuss all the above topics in great detail in my upcoming blogs. The topic for my next blog will be <strong style="color:#48cae4">"AI vs Machine Learning vs Deep Learning"</strong>
 </p>
+
+
