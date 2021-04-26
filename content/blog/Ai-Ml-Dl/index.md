@@ -1,6 +1,6 @@
 ---
 title: AI vs Machine Learning vs Deep Learning
-date: "2021-04-25T22:12:03.284Z"
+date: "2021-04-26T22:12:03.284Z"
 description: "let's clear the confusion about AI, ML and DL"
 ---
 
