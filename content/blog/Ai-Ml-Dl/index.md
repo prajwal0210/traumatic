@@ -35,5 +35,5 @@ The above image is the graphical represenataion how each of them is classified l
 
 <p><strong style="color:#fb5607">Deep Learning</strong> is a subset of machine learning, which is essentially a neural network with three or more layers.Deep Learning is a prime technology behind the technology such as virtual assistants, facial recognition, driverless cars, etc. The working of deep learning involves training the data and learning from the experiences.</p> 
 <p>To understand deep learning, imagine a toddler whose first word is dog. The toddler learns what a dog is -- and is not -- by pointing to objects and saying the word dog. The parent says, "Yes, that is a dog," or, "No, that is not a dog." As the toddler continues to point to objects, he becomes more aware of the features that all dogs possess.Computer programs that use deep learning go through much the same process as the toddler learning to identify the dog.</p>
-<p>I guess you guys might have better understanding what’s the difference between all three of them.</p>
+<p>I guess you guys might now have better understanding what’s the difference between all three of them.</p>
 
